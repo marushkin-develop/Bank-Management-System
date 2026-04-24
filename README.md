@@ -46,3 +46,13 @@
 | Роль          | Логин   | Пароль    |
 |---------------|---------|-----------|
 | Администратор | `admin` | `admin123` |
+## 📸 Скриншоты
+# Регистрация/Вход
+<img width="1039" height="637" alt="image" src="https://github.com/user-attachments/assets/d64fc949-bade-4e31-b34f-862d183b25ad" />
+
+# Подтверждение входа за админа
+<img width="1001" height="637" alt="image" src="https://github.com/user-attachments/assets/1f48f891-b013-4cfc-b93a-0360e634d05b" />
+
+# Операции и история платежей за клиента
+<img width="1006" height="681" alt="image" src="https://github.com/user-attachments/assets/6a289f08-cfd2-4564-a5d0-637ba032866d" />
+
